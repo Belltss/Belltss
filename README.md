@@ -1,6 +1,7 @@
 ## Olá! Eu sou o João👋
 - 🔭 Estou trabalhando em pequenos projetos pessoais.
-- 🌱 Estudando a parte back-end do meu curso.
+- 🌱 Cursando Ciências da Computação.
+- 💻 Front-End
 - 📫 Entre em contato por: joao11olliveira@gmail.com
 - 😄 Pronomes: Ele/dele
 <div style="display: inline_block"><br>
